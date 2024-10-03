@@ -1,0 +1,7 @@
+C:\Users\tosh\Desktop\my\CSharpEgitimKampi\01_MainSubkects\bin\Debug\01_MainSubkects.exe.config
+C:\Users\tosh\Desktop\my\CSharpEgitimKampi\01_MainSubkects\bin\Debug\01_MainSubkects.exe
+C:\Users\tosh\Desktop\my\CSharpEgitimKampi\01_MainSubkects\bin\Debug\01_MainSubkects.pdb
+C:\Users\tosh\Desktop\my\CSharpEgitimKampi\01_MainSubkects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\tosh\Desktop\my\CSharpEgitimKampi\01_MainSubkects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\tosh\Desktop\my\CSharpEgitimKampi\01_MainSubkects\obj\Debug\01_MainSubkects.exe
+C:\Users\tosh\Desktop\my\CSharpEgitimKampi\01_MainSubkects\obj\Debug\01_MainSubkects.pdb
