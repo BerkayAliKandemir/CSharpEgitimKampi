@@ -1,11 +1,15 @@
-01_MainSubkects
+C# EĞİTİM KAMPI PROJELERİ
+Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ilk 8 projeyi içermektedir. Her bir proje, belirli programlama kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı olmaktadır. 
+
+
+Proje1 - 01_MainSubkects
 
 Bu proje ile C# dilindeki temel kavramlar üzerinde çalışarak, değişken tanımlama, 
 yazdırma komutları, matematiksel işlemlerve kod düzenleme konularını öğrendik ve pratik ettik. 
 Ayrıca, günlük hayattaki basit uygulamalar ile deneyim kazandık.
 
 
-Veriables
+Proje2 - Veriables
 
 Bu projede, C# dilinde farklı veri türleri ve kullanıcıdan veri girişi işlemlerini öğrendik.
 double değişkenlerle fiyat hesaplamaları yapıp, ürün gramajına göre toplam tutarları hesapladık. 
@@ -13,7 +17,7 @@ char ile sembol ve cinsiyet girişi işlemlerini denedik. Ayrıca, int ve double
 giriş alarak matematiksel işlemler gerçekleştirdik.
 
 
-03_Making_Decision
+Proje3- 03_Making_Decision
 
 Bu projede, C# dilinde if-else ve switch-case gibi karar yapılarıyla kullanıcıdan alınan verilere 
 göre nasıl işlem yapılacağını öğrendik. Kullanıcıdan sayı, metin veya karakter girdisi alarak koşullara 
@@ -22,7 +26,7 @@ göre farklı sonuçlar üretme, mod alma işlemiyle sayının tek mi çift mi o
 seçeneklere göre işlem yapmayı deneyimledik. 
 
 
-04_Loops
+Proje4 - 04_Loops
 
 Bu projede döngüler (loops) konusunu inceleyerek, for ve while döngülerinin kullanımını öğrendik. 
 For döngüsü ile başlangıç, bitiş ve artış değerlerine dayalı tekrarlamalar yaparak, belirli koşullara 
@@ -31,7 +35,7 @@ toplamını bulma ve sayıların küplerinin toplamını hesaplama gibi matemati
 döngüsü ile, belirli bir koşul sağlandığı sürece işlemleri tekrar etmeyi öğrendik. 
 
 
-05_LoopsWithStarts
+Proje5 - 05_LoopsWithStarts
 
 Bu projede, döngüler ile farklı şekillerin nasıl oluşturulacağını öğrendik. 
 For döngüsü kullanarak alt alta ve yan yana yıldızlar eklemeyi, her satırda belirli sayıda 
@@ -39,7 +43,7 @@ yıldız göstererek basit şekiller oluşturmayı deneyimledik. Ayrıca, dik ü
 oluşturmayı, iç içe döngülerle daha karmaşık şekiller yapmayı öğrendik.
 
 
-06_Arrays
+Proje6 - 06_Arrays
 
 Bu projede, dizilerin temel kullanımı ve çeşitli metotları üzerinde durduk. 
 Dizilerin nasıl tanımlanacağını, elemanların belirli bir indeks üzerinden nasıl atandığını ve bu 
@@ -48,7 +52,7 @@ Dizi metotlarını kullanarak diziyi sıralama ve en büyük veya en küçük el
 gerçekleştirdik. Kullanıcıdan dizi elemanlarını alma pratiği yaparak dinamik dizi oluşturmayı da inceledik. 
 
 
-07_ForEachLoop
+Proje7 - 07_ForEachLoop
 
 Bu projede, C# programlama dilinde foreach döngüsünün kullanımı ve uygulamaları üzerinde duruldu.
 Örneklerde, bir dizi içindeki şehir isimleri veya sayıların nasıl listeleneceği gösterildi.
@@ -56,7 +60,7 @@ Kullanıcıdan alınan verilerle basit bir sınav uygulaması geliştirildi; bu 
 öğrenci sayısı, isimleri ve not ortalamaları hesaplanarak her öğrencinin durumu belirlendi.
 
 
-08_Methods
+Proje8 - 08_Methods
 
 Bu projede, C# programlama dilinde metotların kullanımı ve farklı türde metotların tanımlanması 
 üzerinde duruldu. Main metodunda, geri dönüş değeri olmayan ve parametreli metot örnekleri ile birlikte
