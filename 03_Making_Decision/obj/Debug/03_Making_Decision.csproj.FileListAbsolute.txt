@@ -1,7 +1,0 @@
-C:\Users\tosh\Desktop\my\CSharpEgitimKampi\03_Making_Decision\bin\Debug\03_Making_Decision.exe.config
-C:\Users\tosh\Desktop\my\CSharpEgitimKampi\03_Making_Decision\bin\Debug\03_Making_Decision.exe
-C:\Users\tosh\Desktop\my\CSharpEgitimKampi\03_Making_Decision\bin\Debug\03_Making_Decision.pdb
-C:\Users\tosh\Desktop\my\CSharpEgitimKampi\03_Making_Decision\obj\Debug\03_Making_Decision.csproj.AssemblyReference.cache
-C:\Users\tosh\Desktop\my\CSharpEgitimKampi\03_Making_Decision\obj\Debug\03_Making_Decision.csproj.CoreCompileInputs.cache
-C:\Users\tosh\Desktop\my\CSharpEgitimKampi\03_Making_Decision\obj\Debug\03_Making_Decision.exe
-C:\Users\tosh\Desktop\my\CSharpEgitimKampi\03_Making_Decision\obj\Debug\03_Making_Decision.pdb
